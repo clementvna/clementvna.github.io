@@ -384,7 +384,10 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #728394;
-  padding-bottom: 30px;
+}
+
+.about .content p {
+  margin-bottom: 32px;
 }
 
 .about .content p:last-child {
